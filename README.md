@@ -1,6 +1,8 @@
 Welcome to my unusual DIY CNC milling machine project.  The video series is available to follow along on my YouTube channel under my channel name "routerCNC".
 Link is here: https://www.youtube.com/watch?v=ioo_Vyz_lmk
-The mechanical parts were CNC machined by JLCCNC. It is my own design and features a fully moving head which means the quill function is fully electronic and configurable.
+The mechanical parts were CNC machined by JLCCNC.  Follow the link here to check out their services: https://jlccnc.com/?from=routercnc
+
+It is my own design and features a fully moving head which means the quill function is fully electronic and configurable.
 This repository will contain various iterations of the ESP32 code for anyone to follow along.
 
 The milling machine has no quill but instead uses an all moving head which slides on the main column and is controlled by an AC servo driving a ballscrew.
